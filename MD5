@@ -1,0 +1,13 @@
+00dfb28500f345f51596e2f1b8860fb1 *DESCRIPTION
+5f38bb583f9a7ed1f2c93442f65bec1b *NAMESPACE
+6655e8aac574599739f1a0538ef0ed51 *NEWS.md
+8b03905d6df3649bd37ccff1dc60a540 *R/print.summary.sfaendog.R
+63c088a16f5d34f68e598f2186cb92d9 *R/sfaendog.R
+5eb3abcb253ce86037b8c9e6e9d6dfd3 *R/summary.sfaendog.R
+630178dd354f4a4f951bf0f60ae5c3df *R/validNames.R
+6610060a25851c01e1d5ed4736627b6a *R/zzz.R
+ea7f66c69b0d215aa566bee519c4c395 *data/Farms.RData
+0652553ac7c7d7e71d33fc9d7fe1e0dd *inst/CITATION
+2abfc9d4d20e46949fd8d2c9c3669f32 *man/Farms.Rd
+ea84fed23600c805bb202b8505609da1 *man/sfaendog.Rd
+1a2987d6ee844b3ef014776c5b21e9f8 *man/summary.Rd
